@@ -38,7 +38,3 @@ Each project is maintained in its own folder and includes:
 ## Goal
 
 Build practical SAP CPI integration skills through real-world scenarios and create a portfolio of integration projects demonstrating enterprise integration concepts.
-
-## Status
-
-Learning in Progress
