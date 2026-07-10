@@ -23,6 +23,8 @@ A collection of hands-on SAP Cloud Integration (SAP CPI) projects built while le
 * XML Processing & XPath Expressions
 * Data Store Operations
 * JSON to XML Mapping
+* Groovy Data Enricher
+* XML Transformer
 
 ## Repository Structure
 
